@@ -1,0 +1,7 @@
+{
+    "codeintel_snippets": true,
+    "Python": {
+        "python": "C:/Python27/python2.exe",
+        "pythonExtraPaths": ["C:/Python27/Lib"]
+    }
+}

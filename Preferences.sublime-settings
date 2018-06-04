@@ -1,0 +1,43 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_complete": true,
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_delay": 100,
+	"caret_extra_bottom": 1,
+	"caret_extra_top": 2,
+	"caret_extra_width": 0,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/Cobalt (SL).tmTheme",
+	"draw_minimap_border": true,
+	"ensure_newline_at_eof_on_save": false,
+	"fade_fold_buttons": false,
+	"font_face": "DejaVu Sans Mono",
+	"font_options":
+	[
+		"gdi",
+		"subpixel_antialias"
+	],
+	"font_size": 11,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"hot_exit": true,
+	"ignored_packages":
+	[
+		"SublimeLinter",
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"match_brackets": true,
+	"save_on_focus_lost": true,
+	"scroll_past_end": false,
+	"theme": "Adaptive.sublime-theme",
+	"theme_font_options":
+	[
+		"gdi"
+	],
+	"trim_trailing_white_space_on_save": true,
+	"wide_caret": true,
+	"word_wrap": "true",
+	"wrap_width": 100
+}
